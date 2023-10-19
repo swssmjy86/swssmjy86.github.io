@@ -2,31 +2,31 @@
 layout: default
 ---
 
-## Deprecated: Use my new theme "Duo" instead:
+## Deprecated: No Gain No Pain:
 
-[https://chibicode.github.io/duo/](https://chibicode.github.io/duo/)
+[https://swssmjy86.github.io/](https://swssmjy86.github.io/)
 
 ---
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+[Couple](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
 
 <iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
   allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
 
 Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
 
-## Solo is useful if...
+## Couple is useful if...
 
 * You want to create an "about me" page from a single markdown file and host it under a custom domain name.
 * You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
 * You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
 * You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
 
-This page itself is built with Solo. It's generated from [this markdown file](https://github.com/chibicode/solo/blob/gh-pages/_includes/index.md).
+This page itself is built with Couple. It's generated from [this markdown file](https://github.com/chibicode/solo/blob/gh-pages/_includes/index.md).
 
 ## Usage
 
-First, [install Jekyll](http://jekyllrb.com/docs/installation/). Then download Solo from its [GitHub Repository](https://github.com/chibicode/solo). Start Jekyll and you should see this page up and running.
+First, [install Jekyll](http://jekyllrb.com/docs/installation/). Then download Couple from its [GitHub Repository](https://swssmjy86.github.io/). Start Jekyll and you should see this page up and running.
 
 **The main file you'll be editing is `index.md`**. This becomes the content for the page.
 
@@ -44,7 +44,7 @@ Wthin `index.md`, do not use `<h1>` tags - `<h1>` is reserved for the site title
 
 ### Supported Tags
 
-Solo supports lists, `<hr>`s, `<table>`s,
+Couple supports lists, `<hr>`s, `<table>`s,
 
 > blockquotes, and...
 
