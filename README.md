@@ -1,11 +1,9 @@
-## Deprecated: Use my new theme "Duo" instead:
+## Deprecated: No Gain No Pain:
 
 [https://swssmjy86.github.io/](https://swssmjy86.github.io/)
 
 ---
 
-# Solo
+# Couple
 
-[Solo](https://swssmjy86.github.io/) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
-
-### [Demo & Documentation &rarr;](https://swssmjy86.github.io)
+[Couple](https://swssmjy86.github.io/) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
