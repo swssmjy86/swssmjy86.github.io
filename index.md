@@ -10,6 +10,7 @@ Samsungjeonja-ro 1, Hwaseong-si, Gyeonggi-do 18448, South Korea.<br />
 * Mobile: +82-10-9159-5962
 
 <br />
+<i class='fab fa-instagram' style='font-size:48px;color:red'></i>
 <a href="https://www.linkedin.com/in/jaeki-hong-39393165/"><i class="fab fa-linkedin"></i></a> 
 <a href="https://www.instagram.com/jaeki.hong/"><i class="fab fa-instagram"></i></a>
 
