@@ -7,13 +7,8 @@ Senior Engineer, Samsung Electronics<br />
 Software Development Team, [Memory Division](https://semiconductor.samsung.com/kr/about-us/business-area/memory/)<br />
 Samsungjeonja-ro 1, Hwaseong-si, Gyeonggi-do 18448, South Korea.<br />
 * E-mail: jy86.yu@samsung.com, swssmjy86@gmail.com
+* SNS: [www.instagram.com/_______raymond_______](https://www.instagram.com/_______raymond_______)
 * Mobile: +82-10-9159-5962
-
-
-<body>
-<i class='fab fa-instagram' style='font-size:48px;color:black'></i>
-<br>
-</body>
 
 ## Enducation
 
