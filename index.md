@@ -13,9 +13,9 @@ Samsungjeonja-ro 1, Hwaseong-si, Gyeonggi-do 18448, South Korea.<br />
 <strong>Level 5, ELS Language Course</strong>, Global Village, Toronto, Canada. 2009-2010<br />
 
 ## Work Experience
-* <strong>Staff Engineer</strong>, Memory Division, Device Solutions, Samsung Electronics. 2017-NOW
+* <strong>Staff Engineer</strong>, Memory Division, Device Solutions, Samsung Electronics. 2017-NOW<br />
 Simulator for SSD's Verification, Firmware Development for SSD (Flash Interface Layer)
-* <strong>Assistant Engineer</strong>, Software Research Center, Device Solutions, Samsung Electronics. 2013-2017
+* <strong>Assistant Engineer</strong>, Software Research Center, Device Solutions, Samsung Electronics. 2013-2017<br />
 Verification Modules (Power, 4G, Bluetooth Chip), Automatic Verification system, S/W Infra Tool
 * <strong>Staff</strong>, Personnel Team, Device Solutions, Samsung Electronics. 2012-2013
 
