@@ -7,10 +7,6 @@ Device Solutions Research
 
 ## Enducation
 
-[https://swssmjy86.github.io/](https://swssmjy86.github.io/)
-
----
-
 [Couple](https://swssmjy86.github.io/) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
 
 <iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
