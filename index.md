@@ -1,5 +1,5 @@
 ---
-layout: scripts
+layout: default
 ---
 
 Senior Engineer, Samsung Electronics<br />
