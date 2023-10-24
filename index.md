@@ -9,6 +9,11 @@ Samsungjeonja-ro 1, Hwaseong-si, Gyeonggi-do 18448, South Korea.<br />
 * E-mail: jy86.yu@samsung.com, swssmjy86@gmail.com
 * Mobile: +82-10-9159-5962
 
+ <div id="webaddress">
+  <a href="https://www.linkedin.com/in/jaeki-hong-39393165/"><i class="fab fa-linkedin"></i></a> 
+  <a href="https://www.instagram.com/jaeki.hong/"><i class="fab fa-instagram"></i></a>
+</div>
+
 ## Enducation
 
 [Couple](https://swssmjy86.github.io/) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
