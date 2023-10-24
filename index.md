@@ -1,9 +1,9 @@
-Senior Engineer, Samsung Electronics
+### Senior Engineer, Samsung Electronics
 Software Development Team, [Memory Divsion](https://semiconductor.samsung.com/kr/about-us/business-area/memory/)
 Device Solutions Research 
 1, Samsungjeonja-ro, Hwaseong-si, Gyeonggi-do 18448, South Korea.
-E-mail : jy86.yu@samsung.com, swssmjy86@gmail.com
-Mobile : +82-10-9159-5962
+**E-mail : jy86.yu@samsung.com, swssmjy86@gmail.com**
+**Mobile : +82-10-9159-5962**
 
 ## Enducation
 
