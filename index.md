@@ -5,6 +5,14 @@ Device Solutions Research 1, Samsungjeonja-ro, Hwaseong-si, Gyeonggi-do 18448, S
 * E-mail: jy86.yu@samsung.com, swssmjy86@gmail.com
 * Mobile: +82-10-9159-5962
 
+<i class='fab fa-instagram'></i>
+<i class='fab fa-instagram' style='font-size:24px'></i>
+<i class='fab fa-instagram' style='font-size:36px'></i>
+<i class='fab fa-instagram' style='font-size:48px;color:red'></i>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
+  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
+
 <div id="webaddress">
   <a href="https://www.linkedin.com/in/swssmjy86/"><i class="fab fa-linkedin"></i></a> 
   <a href="https://www.instagram.com/raymond/"><i class="fab fa-instagram"></i></a>
