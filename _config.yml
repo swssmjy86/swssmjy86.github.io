@@ -1,7 +1,6 @@
 # Site settings
-title: Couple, a Jekyll Theme
-tag_text: Couple
-description: Couple is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+title: Junyoung Yu's CV
+tag_text: Junyoung Yu
 
 # Build settings
 markdown: kramdown
