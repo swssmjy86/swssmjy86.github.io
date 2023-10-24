@@ -1,9 +1,13 @@
-### Senior Engineer, Samsung Electronics
-Software Development Team, [Memory Divsion](https://semiconductor.samsung.com/kr/about-us/business-area/memory/)
-Device Solutions Research 
-1, Samsungjeonja-ro, Hwaseong-si, Gyeonggi-do 18448, South Korea.
+<p>Senior Engineer</p>
+<p>Software Development Team, [Memory Divsion](https://semiconductor.samsung.com/kr/about-us/business-area/memory/), Samsung Electronics</p>
+<p>Device Solutions Research 
+1, Samsungjeonja-ro, Hwaseong-si, Gyeonggi-do 18448, South Korea.</p>
 **E-mail : jy86.yu@samsung.com, swssmjy86@gmail.com**
 **Mobile : +82-10-9159-5962**
+<div id="webaddress">
+  <a href="https://www.linkedin.com/in/jaeki-hong-39393165/"><i class="fab fa-linkedin"></i></a> 
+  <a href="https://www.instagram.com/jaeki.hong/"><i class="fab fa-instagram"></i></a>
+</div>
 
 ## Enducation
 
