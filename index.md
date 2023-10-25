@@ -34,3 +34,4 @@ Verification Modules (Power, 4G, Bluetooth Chip), Automatic Verification system,
 <strong>"Carpe Diem", "No pain, No gain.."</strong><br />
 Running, Golf, Wine, Investment<br />
 Married, one children<br />
+<img src='http://drive.google.com/uc?export=view&id=1PGyVBb4uqwEqJw4xRJDDBoFn-kmHHfGb_link' /><br>
