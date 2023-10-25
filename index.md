@@ -9,17 +9,28 @@ Samsungjeonja-ro 1, Hwaseong-si, Gyeonggi-do 18448, South Korea.<br />
 * Mobile: +82-10-9159-5962
 
 ## Enducation
-<strong>B.S., Digital Information Engineering & Business Administration (Minor)</strong>, HanKuk University of Foreign Studies, Seoul, Korea. 2005-2012<br />
+<strong>B.S., Digital Information Engineering & Business Administration (Minor)</strong>, HanKuk University of Foreign Studies, Seoul, South Korea. 2005-2012<br />
+<strong>21th, Samsung Software Membership</strong>, Suwon-si, Gyonggi-do, South Korea. 2011-2012<br />
 <strong>Level 5, ELS Language Course</strong>, Global Village, Toronto, Canada. 2009-2010<br />
 
 ## Work Experience
+### Mobile AP, SSD, SVN, Git, Jira, Confluence etc..
 * <strong>Staff Engineer</strong>, Memory Division, Device Solutions, Samsung Electronics. 2017-NOW<br />
 Simulator for SSD's Verification, Firmware Development for SSD (Flash Interface Layer)
 * <strong>Assistant Engineer</strong>, Software Research Center, Device Solutions, Samsung Electronics. 2013-2017<br />
 Verification Modules (Power, 4G, Bluetooth Chip), Automatic Verification system, S/W Infra Tool
 * <strong>Staff</strong>, Personnel Team, Device Solutions, Samsung Electronics. 2012-2013
 
+## Project
+* Phonation Assistance Apparatus, Patents, KR1020080084737.
+* Dual Screen Notebook, Concepts, Computing Idea Contests.
+* Intelligent Model Car Competition, PNP.
+* lego Printer using Motor Control, PNP.
+* Automatic Parking system using Intelligent Model Car, PNP.
+* Android Booting Sequence I/O Pattern Analysis By profiling Linux Kernal, Papers, KIPS.
+* 3D Mirror Wall using Kinect, SSM.
+
 ## Personal
 <strong>"Carpe Diem", "No pain, No gain.."</strong><br />
-<a class="fas fa-thumbs-up"></a>Runner, Golf, Wine, Investment<br />
-<a class="fas fa-child"></a>Married, one children<br />
+Runner, Golf, Wine, Investment<br />
+Married, one children<br />
