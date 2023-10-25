@@ -14,12 +14,12 @@ Samsungjeonja-ro 1, Hwaseong-si, Gyeonggi-do 18448, South Korea.<br />
 <strong>Level 5, ELS Language Course</strong>, Global Village, Toronto, Canada. 2009-2010<br />
 
 ## Work Experience
-Mobile AP, SSD, SVN, Git, Jira, Confluence etc..
-* <strong>Senior Engineer</strong>, Memory Division, Device Solutions, Samsung Electronics. 2017-NOW<br />
+Mobile AP, SSD, SVN, Git, Jira, Confluence etc..<br />
+<strong>Senior Engineer</strong>, Memory Division, Device Solutions, Samsung Electronics. 2017-NOW<br />
 Simulator for SSD's Verification, Firmware Development for SSD (Flash Interface Layer)
-* <strong>Associate Engineer</strong>, Software Research Center, Device Solutions, Samsung Electronics. 2013-2017<br />
+<strong>Associate Engineer</strong>, Software Research Center, Device Solutions, Samsung Electronics. 2013-2017<br />
 Verification Modules (Power, 4G, Bluetooth Chip), Automatic Verification system, S/W Infra Tool
-* <strong>Staff, Human Resource TF</strong>, Personnel Team, Device Solutions, Samsung Electronics. 2012-2013
+<strong>Staff, Human Resource TF</strong>, Personnel Team, Device Solutions, Samsung Electronics. 2012-2013
 
 ## Project
 * Phonation Assistance Apparatus, Patents, Idea Club.
@@ -34,4 +34,4 @@ Verification Modules (Power, 4G, Bluetooth Chip), Automatic Verification system,
 <strong>"Carpe Diem", "No pain, No gain.."</strong><br />
 Running, Golf, Wine, Investment<br />
 Married, one children<br />
-<img src='http://drive.google.com/uc?export=view&id=1PGyVBb4uqwEqJw4xRJDDBoFn-kmHHfGb_link' /><br>
+<img src='http://drive.google.com/uc?export=view&id=1PGyVBb4uqwEqJw4xRJDDBoFn-kmHHfGb'/><br>
