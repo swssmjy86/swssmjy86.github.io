@@ -16,10 +16,10 @@ Samsungjeonja-ro 1, Hwaseong-si, Gyeonggi-do 18448, South Korea.<br />
 ## Work Experience
 Mobile AP, SSD, SVN, Git, Jira, Confluence etc..<br />
 <strong>Senior Engineer</strong>, Memory Division, Device Solutions, Samsung Electronics. 2017-NOW<br />
-Simulator for SSD's Verification, Firmware Development for SSD (Flash Interface Layer)
+Simulator for SSD's Verification, Firmware Development for SSD (Flash Interface Layer)<br />
 <strong>Associate Engineer</strong>, Software Research Center, Device Solutions, Samsung Electronics. 2013-2017<br />
-Verification Modules (Power, 4G, Bluetooth Chip), Automatic Verification system, S/W Infra Tool
-<strong>Staff, Human Resource TF</strong>, Personnel Team, Device Solutions, Samsung Electronics. 2012-2013
+Verification Modules (Power, 4G, Bluetooth Chip), Automatic Verification system, S/W Infra Tool<br />
+<strong>Staff, Human Resource TF</strong>, Personnel Team, Device Solutions, Samsung Electronics. 2012-2013<br />
 
 ## Project
 * Phonation Assistance Apparatus, Patents, Idea Club.
