@@ -1,6 +1,3 @@
----
-layout: default
----
 Senior Engineer, Samsung Electronics<br />
 Software Development Team, [Memory Division](https://semiconductor.samsung.com/kr/about-us/business-area/memory/)<br />
 Samsungjeonja-ro 1, Hwaseong-si, Gyeonggi-do 18448, South Korea.<br />
