@@ -1,4 +1,4 @@
-Senior Engineer, Samsung Electronics<br />
+Staff Engineer, Samsung Electronics<br />
 Software Development Team, [Memory Division](https://semiconductor.samsung.com/kr/about-us/business-area/memory/)<br />
 Samsungjeonja-ro 1, Hwaseong-si, Gyeonggi-do 18448, South Korea.<br />
 * E-mail: jy86.yu@samsung.com, swssmjy86@gmail.com
@@ -12,7 +12,7 @@ Samsungjeonja-ro 1, Hwaseong-si, Gyeonggi-do 18448, South Korea.<br />
 
 ## Work Experience
 Mobile AP, SSD, SVN, Git, Jira, Confluence etc..<br />
-<strong>Senior Engineer</strong>, Memory Division, Device Solutions, Samsung Electronics. 2017-NOW<br />
+<strong>Staff Engineer</strong>, Memory Division, Device Solutions, Samsung Electronics. 2017-NOW<br />
  :Simulator for SSD's Verification, Firmware Development for SSD (Flash Interface Layer)<br />
 <strong>Associate Engineer</strong>, Software Research Center, Device Solutions, Samsung Electronics. 2013-2017<br />
  :Verification Modules (Power, 4G, Bluetooth Chip), Automatic Verification system, S/W Infra Tool<br />
@@ -31,5 +31,5 @@ Mobile AP, SSD, SVN, Git, Jira, Confluence etc..<br />
 <strong>"Carpe Diem", "No pain, No gain.."</strong><br />
 Running, Golf, Wine, Investment<br />
 Married, one children<br />
-<img src='http://drive.google.com/uc?export=view&id=1PGyVBb4uqwEqJw4xRJDDBoFn-kmHHfGb'/><br />
+<img src='https://photos.google.com/photo/AF1QipP2pmdCwemTGRVpQ6Y7J4mUWmxkK3f6N69LO_Zs'/><br />
 Last updated: October 2023
