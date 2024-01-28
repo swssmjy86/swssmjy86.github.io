@@ -31,5 +31,5 @@ Mobile AP, SSD, SVN, Git, Jira, Confluence etc..<br />
 <strong>"Carpe Diem", "No pain, No gain.."</strong><br />
 Running, Golf, Wine, Investment<br />
 Married, one children<br />
-<img src='https://photos.google.com/photo/AF1QipP2pmdCwemTGRVpQ6Y7J4mUWmxkK3f6N69LO_Zs'/><br />
+![22295](https://github.com/swssmjy86/swssmjy86.github.io/assets/148452455/d33f7cb0-fd06-4530-bc8a-a980b4a9c4a2)<br />
 Last updated: October 2023
