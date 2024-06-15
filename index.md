@@ -1,7 +1,7 @@
 Senior Director, Cellumed<br />
 New Business & Audit Team, Group Synegy, [Cellumed](https://www.cellumed.co.kr/)<br />
 5th, 130, Digital-ro, Geumcheon-gu, Seoul, Republic of Korea.<br />
-* E-mail: swssmjy86@cellumed.co.kr, swssmjy86@gmail.com
+* E-mail: swssmjy86@cellumed.co.kr, swssmjy86@gmail.com, swssmjy86@kaist.ac.kr
 * SNS: [www.instagram.com/_______raymond_______](https://www.instagram.com/_______raymond_______)
 * Mobile: +82-10-9159-5962
 
