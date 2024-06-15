@@ -35,4 +35,4 @@ New Business & Audit Team, Group Synegy, [Cellumed](https://www.cellumed.co.kr/)
 Running, Golf, Wine, Self Development<br />
 Married, one children<br />
 ![22295](https://github.com/swssmjy86/swssmjy86.github.io/assets/148452455/d33f7cb0-fd06-4530-bc8a-a980b4a9c4a2)<br />
-Last updated: October 2023
+Last updated: June 2024
