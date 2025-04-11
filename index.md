@@ -13,7 +13,7 @@ Planning Department, Group Synegy, [Cellumed](https://www.cellumed.co.kr/)<br />
 <strong>Level 5, ELS Language Course</strong>, Global Village, Toronto, Canada. 2009-2010<br />
 
 ## Work Experience
- Growth Factor, Bio, Tissue Bank, Medical Devices, Mobile AP, SSD, SVN, Git, Jira, Confluence etc..<br />
+ Growth Factor, Bio, Tissue Bank, Medical Devices, Mobile AP/CP, SSD, Soft Engineering, etc..<br />
 <strong>Managing Director </strong>, Planning Department, Cellumed. 2025-Now<br />
  :Planning Strategy and Regulatory Affairs<br />
 <strong>Managing Director </strong>, New Business & Audit Team, Cellumed. 2024-2025<br />
@@ -31,7 +31,12 @@ Planning Department, Group Synegy, [Cellumed](https://www.cellumed.co.kr/)<br />
 * lego Printer using Motor Control, PNP.
 * Automatic Parking system using Intelligent Model Car, PNP.
 * Android Booting Sequence I/O Pattern Analysis By profiling Linux Kernal, Papers, KIPS.
-* 3D Mirror Wall using Kinect, SSM.
+* 3D Mirror Wall using Kinect, Samsung Software Membership.
+* HRB-based business analysis for Disney, KAIST.
+* Financial Accounting Analysis for Cellumed, KAIST.
+* Organizational Operation and Establishment of Department R&R, Cellumed.
+* Organizing company profile materials and establishing IR/PR promotion Plan, Cellumed. 
+* Work to improve the prodution process at the GTP facility, Cellumed.
 
 ## Personal
 <strong>"Carpe Diem", "No pain, No gain.."</strong><br />
