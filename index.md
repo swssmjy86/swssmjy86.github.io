@@ -1,5 +1,5 @@
-Senior Director, Cellumed<br />
-New Business & Audit Team, Group Synegy, [Cellumed](https://www.cellumed.co.kr/)<br />
+Managing Director, Cellumed<br />
+Planning Department, Group Synegy, [Cellumed](https://www.cellumed.co.kr/)<br />
 5th, 130, Digital-ro, Geumcheon-gu, Seoul, Republic of Korea.<br />
 * E-mail: swssmjy86@cellumed.co.kr, swssmjy86@gmail.com, swssmjy86@kaist.ac.kr
 * SNS: [www.instagram.com/_______raymond_______](https://www.instagram.com/_______raymond_______)
@@ -12,8 +12,10 @@ New Business & Audit Team, Group Synegy, [Cellumed](https://www.cellumed.co.kr/)
 <strong>Level 5, ELS Language Course</strong>, Global Village, Toronto, Canada. 2009-2010<br />
 
 ## Work Experience
- Bio, Tissue Bank, Medical Devices, Mobile AP, SSD, SVN, Git, Jira, Confluence etc..<br />
-<strong>Senior Director </strong>, New Business & Audit Team, Cellumed. 2024-Now<br />
+ BMP2 FGF7 Growth Factor, Bio, Tissue Bank, Medical Devices, Mobile AP, SSD, SVN, Git, Jira, Confluence etc..<br />
+<strong>Managing Director </strong>, Planning Department, Cellumed. 2025-Now<br />
+ :Planning Strategy and Regulatory Affairs<br />
+<strong>Managing Director </strong>, New Business & Audit Team, Cellumed. 2024-2025<br />
  :Business Strategy, Medical Devices, Tissue Bank, Wellness<br />
 <strong>Staff Engineer</strong>, Memory Division, Device Solutions, Samsung Electronics. 2017-2024<br />
  :Simulator for SSD's Verification, Firmware Development for SSD (Flash Interface Layer)<br />
@@ -35,4 +37,4 @@ New Business & Audit Team, Group Synegy, [Cellumed](https://www.cellumed.co.kr/)
 Running, Golf, Wine, Self Development<br />
 Married, one children<br />
 ![22295](https://github.com/swssmjy86/swssmjy86.github.io/assets/148452455/d33f7cb0-fd06-4530-bc8a-a980b4a9c4a2)<br />
-Last updated: June 2024
+Last updated: March 2025
