@@ -1,7 +1,7 @@
 Managing Director, Cellumed<br />
 Planning Department, Group Synegy, [Cellumed](https://www.cellumed.co.kr/)<br />
 5th, 130, Digital-ro, Geumcheon-gu, Seoul, Republic of Korea.<br />
-* E-mail: swssmjy86@cellumed.co.kr, swssmjy86@gmail.com, swssmjy86@kaist.ac.kr
+* E-mail: swssmjy86@cellumed.co.kr, [swssmjy86@gmail.com](https://swssmjy86@gmail.com), [swssmjy86@kaist.ac.kr](https://swssmjy86@kaist.ac.kr)
 * SNS: [www.instagram.com/_______raymond_______](https://www.instagram.com/_______raymond_______)
 * Mobile: +82-10-9159-5962
 
@@ -36,5 +36,5 @@ Planning Department, Group Synegy, [Cellumed](https://www.cellumed.co.kr/)<br />
 <strong>"Carpe Diem", "No pain, No gain.."</strong><br />
 Running, Golf, Wine, Self Development<br />
 Married, one children<br />
-<img src="https://github.com/swssmjy86/swssmjy86.github.io/assets/148452455/d33f7cb0-fd06-4530-bc8a-a980b4a9c4a2" alt="Profile Photo" class="profile-pic" width="300px" /><br />
+<img src="https://github.com/swssmjy86/swssmjy86.github.io/assets/148452455/d33f7cb0-fd06-4530-bc8a-a980b4a9c4a2" alt="Profile Photo" class="profile-pic" width="500px" /><br />
 Last updated: March 2025
