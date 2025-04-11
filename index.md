@@ -7,12 +7,13 @@ Planning Department, Group Synegy, [Cellumed](https://www.cellumed.co.kr/)<br />
 
 ## Enducation
 <strong>MBA., Profession-MBA</strong>, KAIST School of Business, Seoul, South Korea. 2024-Now<br />
-<strong>B.E., Digital Information Engineering & Business Administration (Minor)</strong>, HanKuk University of Foreign Studies, Seoul, South Korea. 2005-2012<br />
+<strong>Minor in Business Administration</strong>, HanKuk University of Foreign Studies, Seoul, South Korea. 2005-2012<br />
+<strong>B.E., Digital Information Engineering</strong>, HanKuk University of Foreign Studies, Seoul, South Korea. 2005-2012<br />
 <strong>21th, Samsung Software Membership</strong>, Suwon-si, Gyonggi-do, South Korea. 2011-2012<br />
 <strong>Level 5, ELS Language Course</strong>, Global Village, Toronto, Canada. 2009-2010<br />
 
 ## Work Experience
- BMP2 FGF7 Growth Factor, Bio, Tissue Bank, Medical Devices, Mobile AP, SSD, SVN, Git, Jira, Confluence etc..<br />
+ Growth Factor, Bio, Tissue Bank, Medical Devices, Mobile AP, SSD, SVN, Git, Jira, Confluence etc..<br />
 <strong>Managing Director </strong>, Planning Department, Cellumed. 2025-Now<br />
  :Planning Strategy and Regulatory Affairs<br />
 <strong>Managing Director </strong>, New Business & Audit Team, Cellumed. 2024-2025<br />
