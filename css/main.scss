@@ -1,9 +1,41 @@
----
-# Main scss file
----
-@charset "utf-8";
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
 
-@import
-  'normalize',
-  'solo',
-  'syntax';
+header, section, footer {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  margin-top: 1rem;
+  border-radius: 8px;
+}
+
+h1, h2 {
+  color: #003366;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.7rem 1.5rem;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 1rem;
+}
+
+.skill-list span {
+  display: inline-block;
+  background: #e0e0e0;
+  padding: 0.4rem 0.8rem;
+  margin: 0.2rem;
+  border-radius: 5px;
+}
+

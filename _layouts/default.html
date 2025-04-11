@@ -1,19 +1,44 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="{{ site.description }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ site.title }}</title>
-  <link rel="stylesheet" href="css/main.css">
-{% include head.html %}
-</head>
-<body>
-  <div class="container">
-    <h1><a href="./">{{ site.tag_text }}</a></h1>
-    {{ content }}
-  </div>
-{% include scripts.html %}
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Your Name | CV</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  
+  <body>
+    <header>
+      <h1>Your Name</h1>
+      <p>Bio / Tagline</p>
+      <a href="YourResume.pdf" class="btn">Download CV</a>
+    </header>
+  
+    <section id="experience">
+      <h2>Experience</h2>
+      <div class="item">
+        <h3>Position @ Company</h3>
+        <p><em>Year - Year</em></p>
+        <ul>
+          <li>Achievement or responsibility #1</li>
+          <li>Achievement or responsibility #2</li>
+        </ul>
+      </div>
+    </section>
+  
+    <section id="skills">
+      <h2>Skills</h2>
+      <div class="skill-list">
+        <span>Python</span>
+        <span>HTML</span>
+        <span>Marketing</span>
+      </div>
+    </section>
+  
+    <footer>
+      <p>© 2025 Your Name</p>
+    </footer>
+  </body>
+  
 </html>
