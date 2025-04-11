@@ -1,4 +1,3 @@
-<img src="https://github.com/swssmjy86/swssmjy86.github.io/assets/148452455/d33f7cb0-fd06-4530-bc8a-a980b4a9c4a2" alt="Profile Photo" width="200" height="Auto"/>
 Managing Director, Cellumed<br />
 Planning Department, Group Synegy, [Cellumed](https://www.cellumed.co.kr/)<br />
 5th, 130, Digital-ro, Geumcheon-gu, Seoul, Republic of Korea.<br />
@@ -37,4 +36,5 @@ Planning Department, Group Synegy, [Cellumed](https://www.cellumed.co.kr/)<br />
 <strong>"Carpe Diem", "No pain, No gain.."</strong><br />
 Running, Golf, Wine, Self Development<br />
 Married, one children<br />
+<img src="https://github.com/swssmjy86/swssmjy86.github.io/assets/148452455/d33f7cb0-fd06-4530-bc8a-a980b4a9c4a2" alt="Profile Photo" width="100px" />
 Last updated: March 2025
