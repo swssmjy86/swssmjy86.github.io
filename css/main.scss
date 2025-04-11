@@ -39,3 +39,11 @@ h1, h2 {
   border-radius: 5px;
 }
 
+.profile-pic {
+  width: 180px;
+  height: auto;
+  border-radius: 50%;  /* 동그랗게 만들기 */
+  margin: 1rem auto;
+  display: block;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
