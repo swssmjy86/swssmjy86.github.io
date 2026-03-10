@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Junyoung Yu's CV
-
 ## Contact Information
 
 **Position:** Managing Director, Cellumed  
@@ -14,12 +12,12 @@ layout: default
 5th Floor, 130 Digital-ro, Geumcheon-gu, Seoul, Republic of Korea
 
 **Email:**
-- swssmjy86@cellumed.co.kr
+- [swssmjy86@cellumed.co.kr](mailto:swssmjy86@cellumed.co.kr) 
 - [swssmjy86@gmail.com](mailto:swssmjy86@gmail.com)
 - [swssmjy86@kaist.ac.kr](mailto:swssmjy86@kaist.ac.kr)
 
 **Social Media:**  
-[Instagram: @_______raymond_______](https://www.instagram.com/_______raymond_______)
+[https://www.instagram.com/_______raymond_______/](https://www.instagram.com/_______raymond_______)
 
 **Mobile:** +82-10-9159-5962
 
@@ -100,11 +98,11 @@ Growth Factors, Bio Technology, Tissue Banking, Medical Devices, Mobile Applicat
 - HRB-based Business Analysis for Disney - KAIST
 - Financial Accounting Analysis for Cellumed - KAIST
 
-### Design & Implementation
+### Develop & Implementation
 - 3D Mirror Wall using Kinect - Samsung Software Membership
 - Organizational Development and Department R&R Establishment - Cellumed
 - Company Profile Materials and IR/PR Promotion Plan - Cellumed
-- Production Process Improvement at GTP Facility - Cellumed
+- Production Process Improvement at GTP(GMP) Facility - Cellumed
 
 ---
 
