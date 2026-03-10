@@ -1,46 +1,127 @@
-Managing Director, Cellumed<br />
-Planning Department, Group Synegy, [Cellumed](https://www.cellumed.co.kr/)<br />
-5th, 130, Digital-ro, Geumcheon-gu, Seoul, Republic of Korea.<br />
-* E-mail: swssmjy86@cellumed.co.kr, [swssmjy86@gmail.com](https://swssmjy86@gmail.com), [swssmjy86@kaist.ac.kr](https://swssmjy86@kaist.ac.kr)
-* SNS: [www.instagram.com/_______raymond_______](https://www.instagram.com/_______raymond_______)
-* Mobile: +82-10-9159-5962
+---
+layout: default
+---
 
-## Enducation
-<strong>MBA., Profession-MBA</strong>, KAIST School of Business, Seoul, South Korea. 2024-Now<br />
-<strong>Minor in Business Administration</strong>, HanKuk University of Foreign Studies, Seoul, South Korea. 2005-2012<br />
-<strong>B.E., Digital Information Engineering</strong>, HanKuk University of Foreign Studies, Seoul, South Korea. 2005-2012<br />
-<strong>21th, Samsung Software Membership</strong>, Suwon-si, Gyonggi-do, South Korea. 2011-2012<br />
-<strong>Level 5, ELS Language Course</strong>, Global Village, Toronto, Canada. 2009-2010<br />
+# Junyoung Yu's CV
+
+## Contact Information
+
+**Position:** Managing Director, Cellumed  
+**Department:** Planning Department, Group Synergy  
+**Organization:** [Cellumed](https://www.cellumed.co.kr/)
+
+**Address:**  
+5th Floor, 130 Digital-ro, Geumcheon-gu, Seoul, Republic of Korea
+
+**Email:**
+- swssmjy86@cellumed.co.kr
+- [swssmjy86@gmail.com](mailto:swssmjy86@gmail.com)
+- [swssmjy86@kaist.ac.kr](mailto:swssmjy86@kaist.ac.kr)
+
+**Social Media:**  
+[Instagram: @_______raymond_______](https://www.instagram.com/_______raymond_______)
+
+**Mobile:** +82-10-9159-5962
+
+---
+
+## Education
+
+### Advanced Degrees
+- **MBA, Professional MBA**  
+  KAIST School of Business, Seoul, South Korea  
+  2024-Present
+
+### Undergraduate & Professional Development
+- **Minor in Business Administration**  
+  HanKuk University of Foreign Studies, Seoul, South Korea  
+  2005-2012
+
+- **B.E., Digital Information Engineering**  
+  HanKuk University of Foreign Studies, Seoul, South Korea  
+  2005-2012
+
+- **21st Samsung Software Membership**  
+  Suwon-si, Gyeonggi-do, South Korea  
+  2011-2012
+
+- **Level 5, ELS Language Course**  
+  Global Village, Toronto, Canada  
+  2009-2010
+
+---
 
 ## Work Experience
- Growth Factor, Bio, Tissue Bank, Medical Devices, Mobile AP/CP, SSD, Soft Engineering, etc..<br />
-<strong>Managing Director </strong>, Planning Department, Cellumed. 2025-Now<br />
- :Planning Strategy and Regulatory Affairs<br />
-<strong>Managing Director </strong>, New Business & Audit Team, Cellumed. 2024-2025<br />
- :Business Strategy, Medical Devices, Tissue Bank, Wellness<br />
-<strong>Staff Engineer</strong>, Memory Division, Device Solutions, Samsung Electronics. 2017-2024<br />
- :Simulator for SSD's Verification, Firmware Development for SSD (Flash Interface Layer)<br />
-<strong>Associate Engineer</strong>, Software Research Center, Device Solutions, Samsung Electronics. 2013-2017<br />
- :Verification Modules (Power, 4G, Bluetooth Chip), Automatic Verification system, S/W Infra Tool<br />
-<strong>Staff, Human Resource TF</strong>, Personnel Team, Device Solutions, Samsung Electronics. 2012-2013<br />
 
-## Project
-* Phonation Assistance Apparatus, Patents, Idea Club.
-* Dual Screen Notebook, Idea Concepts, Idea Club.
-* Intelligent Model Car Competition, PNP.
-* lego Printer using Motor Control, PNP.
-* Automatic Parking system using Intelligent Model Car, PNP.
-* Android Booting Sequence I/O Pattern Analysis By profiling Linux Kernal, Papers, KIPS.
-* 3D Mirror Wall using Kinect, Samsung Software Membership.
-* HRB-based business analysis for Disney, KAIST.
-* Financial Accounting Analysis for Cellumed, KAIST.
-* Organizational Operation and Establishment of Department R&R, Cellumed.
-* Organizing company profile materials and establishing IR/PR promotion Plan, Cellumed. 
-* Work to improve the prodution process at the GTP facility, Cellumed.
+### Areas of Expertise
+Growth Factors, Bio Technology, Tissue Banking, Medical Devices, Mobile Applications, SSD Development, Software Engineering
 
-## Personal
-<strong>"Carpe Diem", "No pain, No gain.."</strong><br />
-Running, Golf, Wine, Self Development<br />
-Married, one children<br />
-<img src="https://github.com/swssmjy86/swssmjy86.github.io/assets/148452455/d33f7cb0-fd06-4530-bc8a-a980b4a9c4a2" alt="Profile Photo" class="profile-pic" width="350px" /><br />
-Last updated: April 2025
+### Professional History
+
+**Managing Director** | Planning Department, Cellumed  
+*2025-Present*
+- Planning Strategy and Regulatory Affairs
+- Leadership in strategic planning initiatives
+
+**Managing Director** | New Business & Audit Team, Cellumed  
+*2024-2025*
+- Business Strategy Development
+- Medical Devices and Tissue Banking
+- Wellness Program Management
+
+**Staff Engineer** | Memory Division, Device Solutions, Samsung Electronics  
+*2017-2024*
+- SSD Verification Simulator Development
+- Firmware Development for SSD (Flash Interface Layer)
+
+**Associate Engineer** | Software Research Center, Device Solutions, Samsung Electronics  
+*2013-2017*
+- Verification Module Development (Power, 4G, Bluetooth Chips)
+- Automatic Verification System Design
+- Software Infrastructure Tool Development
+
+**Staff, Human Resources Task Force** | Personnel Team, Device Solutions, Samsung Electronics  
+*2012-2013*
+- Human Resources Support and Development
+
+---
+
+## Notable Projects
+
+### Innovation & Development
+- Phonation Assistance Apparatus - Patents, Idea Club
+- Dual Screen Notebook - Concept Development, Idea Club
+- Intelligent Model Car Competition - PNP
+- LEGO Printer using Motor Control - PNP
+- Automatic Parking System using Intelligent Model Car - PNP
+
+### Research & Analysis
+- Android Booting Sequence I/O Pattern Analysis by Linux Kernel Profiling - Research Papers, KIPS
+- HRB-based Business Analysis for Disney - KAIST
+- Financial Accounting Analysis for Cellumed - KAIST
+
+### Design & Implementation
+- 3D Mirror Wall using Kinect - Samsung Software Membership
+- Organizational Development and Department R&R Establishment - Cellumed
+- Company Profile Materials and IR/PR Promotion Plan - Cellumed
+- Production Process Improvement at GTP Facility - Cellumed
+
+---
+
+## Personal Information
+
+**Life Philosophy:** "Carpe Diem" | "No Pain, No Gain"
+
+**Interests & Hobbies:**
+- Running
+- Golf
+- Wine Appreciation
+- Self-Development
+
+**Family:** Married with one child
+
+![Profile Photo](https://github.com/swssmjy86/swssmjy86.github.io/assets/148452455/d33f7cb0-fd06-4530-bc8a-a980b4a9c4a2)
+
+---
+
+**Last Updated:** March 10, 2026
