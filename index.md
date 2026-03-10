@@ -118,8 +118,6 @@ Growth Factors, Bio Technology, Tissue Banking, Medical Devices, Mobile Applicat
 
 **Family:** Married with one child
 
-![Profile Photo](https://github.com/swssmjy86/swssmjy86.github.io/assets/148452455/d33f7cb0-fd06-4530-bc8a-a980b4a9c4a2)
-
 ---
 
 **Last Updated:** March 10, 2026
