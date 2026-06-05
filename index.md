@@ -44,7 +44,7 @@ layout: default
   2011-2012
 
 - **Level 5, ELS Language Course**  
-  [Global Village](https://www.globalvillage.ca/), Toronto, Canada  
+  [Global Village](https://gvenglish.com/), Toronto, Canada  
   2009-2010
 
 ---
