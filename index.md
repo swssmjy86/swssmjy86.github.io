@@ -159,6 +159,8 @@ layout: default
 - Golf
 - Wine Appreciation
 - Self-Development
+- Vibe Coding
+- Automation & Efficiency
 
 **Family:** Married with one child
 <br />
