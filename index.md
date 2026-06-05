@@ -40,7 +40,7 @@ layout: default
   2005-2012
 
 - **21st Samsung Software Membership**  
-  [Samsung Software Membership](https://www.secmem.org/), Suwon-si, Gyeonggi-do, South Korea  
+  Samsung Software Membership, Suwon-si, Gyeonggi-do, South Korea  
   2011-2012
 
 - **Level 5, ELS Language Course**  
