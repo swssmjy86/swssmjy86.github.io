@@ -27,33 +27,29 @@ layout: default
 
 ### Advanced Degrees
 - **MBA, Professional MBA**  
-  KAIST School of Business, Seoul, South Korea  
+  [KAIST School of Business](https://business.kaist.ac.kr/), Seoul, South Korea  
   2024-Present
 
 ### Undergraduate & Professional Development
 - **Minor in Business Administration**  
-  HanKuk University of Foreign Studies, Seoul, South Korea  
+  [HanKuk University of Foreign Studies](https://www.hufs.ac.kr/), Seoul, South Korea  
   2005-2012
 
 - **B.E., Digital Information Engineering**  
-  HanKuk University of Foreign Studies, Seoul, South Korea  
+  [HanKuk University of Foreign Studies](https://www.hufs.ac.kr/), Seoul, South Korea  
   2005-2012
 
 - **21st Samsung Software Membership**  
-  Suwon-si, Gyeonggi-do, South Korea  
+  [Samsung Software Membership](https://www.secmem.org/), Suwon-si, Gyeonggi-do, South Korea  
   2011-2012
 
 - **Level 5, ELS Language Course**  
-  Global Village, Toronto, Canada  
+  [Global Village](https://www.globalvillage.ca/), Toronto, Canada  
   2009-2010
 
 ---
 
 ## Work Experience
-
-<div class="expertise-tags">
-  <span>Growth Factors</span><span>Bio Technology</span><span>Tissue Banking</span><span>Medical Devices</span><span>Mobile Applications</span><span>SSD Development</span><span>Software Engineering</span>
-</div>
 
 <div class="timeline">
 
