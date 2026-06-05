@@ -46,3 +46,102 @@ h1, h2 {
   display: block;
   margin: 0 auto;
 }
+
+/* ── Expertise Tags ── */
+.expertise-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-bottom: 1.2rem;
+}
+.expertise-tags span {
+  background: #eef2ff;
+  color: #3b5bdb;
+  font-size: 0.7rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+/* ── Career Timeline ── */
+.timeline {
+  position: relative;
+  padding-left: 1.6rem;
+  margin-top: 0.5rem;
+}
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 0.45rem;
+  top: 0.5rem;
+  bottom: 0.5rem;
+  width: 2px;
+  background: linear-gradient(to bottom, #27ae60 0%, #27ae60 30%, #1428A0 60%, #1428A0 100%);
+}
+.timeline-item {
+  position: relative;
+  margin-bottom: 1.2rem;
+}
+.timeline-dot {
+  position: absolute;
+  left: -1.22rem;
+  top: 0.35rem;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 50%;
+  border: 2px solid #f8f9fa;
+}
+.timeline-item.cellumed .timeline-dot {
+  background: #27ae60;
+  box-shadow: 0 0 0 2px #27ae60;
+}
+.timeline-item.samsung .timeline-dot {
+  background: #1428A0;
+  box-shadow: 0 0 0 2px #1428A0;
+}
+.timeline-year {
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: #999;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.2rem;
+  text-transform: uppercase;
+}
+.timeline-card {
+  border-left: 3px solid;
+  padding: 0.55rem 0.8rem;
+  border-radius: 0 6px 6px 0;
+  background: #fafafa;
+}
+.timeline-item.cellumed .timeline-card { border-color: #27ae60; }
+.timeline-item.samsung  .timeline-card { border-color: #1428A0; }
+.timeline-company {
+  font-size: 0.63rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.1rem;
+}
+.timeline-item.cellumed .timeline-company { color: #27ae60; }
+.timeline-item.samsung  .timeline-company { color: #1428A0; }
+.timeline-role {
+  font-weight: 700;
+  font-size: 0.88rem;
+  margin-bottom: 0.1rem;
+  color: #111;
+}
+.timeline-dept {
+  font-size: 0.73rem;
+  color: #777;
+  margin-bottom: 0.35rem;
+}
+.timeline-card ul {
+  margin: 0;
+  padding-left: 1rem;
+  font-size: 0.75rem;
+  color: #555;
+}
+.timeline-card ul li {
+  margin-bottom: 0.1rem;
+}

@@ -51,36 +51,84 @@ layout: default
 
 ## Work Experience
 
-### Areas of Expertise
-Growth Factors, Bio Technology, Tissue Banking, Medical Devices, Mobile Applications, SSD Development, Software Engineering
+<div class="expertise-tags">
+  <span>Growth Factors</span><span>Bio Technology</span><span>Tissue Banking</span><span>Medical Devices</span><span>Mobile Applications</span><span>SSD Development</span><span>Software Engineering</span>
+</div>
 
-### Professional History
+<div class="timeline">
 
-**Managing Director** | Planning Department, Cellumed  
-*2025-Present*
-- Planning Strategy and Regulatory Affairs
-- Leadership in strategic planning initiatives
+  <div class="timeline-item cellumed">
+    <div class="timeline-dot"></div>
+    <div class="timeline-year">2025 – Present</div>
+    <div class="timeline-card">
+      <div class="timeline-company">Cellumed</div>
+      <div class="timeline-role">Managing Director</div>
+      <div class="timeline-dept">Planning Department · Group Synergy</div>
+      <ul>
+        <li>Planning Strategy and Regulatory Affairs</li>
+        <li>Leadership in strategic planning initiatives</li>
+      </ul>
+    </div>
+  </div>
 
-**Managing Director** | New Business & Audit Team, Cellumed  
-*2024-2025*
-- Business Strategy Development
-- Medical Devices and Tissue Banking
-- Wellness Program Management
+  <div class="timeline-item cellumed">
+    <div class="timeline-dot"></div>
+    <div class="timeline-year">2024 – 2025</div>
+    <div class="timeline-card">
+      <div class="timeline-company">Cellumed</div>
+      <div class="timeline-role">Managing Director</div>
+      <div class="timeline-dept">New Business &amp; Audit Team</div>
+      <ul>
+        <li>Business Strategy Development</li>
+        <li>Medical Devices and Tissue Banking</li>
+        <li>Wellness Program Management</li>
+      </ul>
+    </div>
+  </div>
 
-**Staff Engineer** | Memory Division, Device Solutions, Samsung Electronics  
-*2017-2024*
-- SSD Verification Simulator Development
-- Firmware Development for SSD (Flash Interface Layer)
+  <div class="timeline-item samsung">
+    <div class="timeline-dot"></div>
+    <div class="timeline-year">2017 – 2024</div>
+    <div class="timeline-card">
+      <div class="timeline-company">Samsung Electronics</div>
+      <div class="timeline-role">Staff Engineer</div>
+      <div class="timeline-dept">Memory Division · Device Solutions</div>
+      <ul>
+        <li>SSD Verification Simulator Development</li>
+        <li>Firmware Development for SSD (Flash Interface Layer)</li>
+      </ul>
+    </div>
+  </div>
 
-**Associate Engineer** | Software Research Center, Device Solutions, Samsung Electronics  
-*2013-2017*
-- Verification Module Development (Power, 4G, Bluetooth Chips)
-- Automatic Verification System Design
-- Software Infrastructure Tool Development
+  <div class="timeline-item samsung">
+    <div class="timeline-dot"></div>
+    <div class="timeline-year">2013 – 2017</div>
+    <div class="timeline-card">
+      <div class="timeline-company">Samsung Electronics</div>
+      <div class="timeline-role">Associate Engineer</div>
+      <div class="timeline-dept">Software Research Center · Device Solutions</div>
+      <ul>
+        <li>Verification Module Development (Power, 4G, Bluetooth Chips)</li>
+        <li>Automatic Verification System Design</li>
+        <li>Software Infrastructure Tool Development</li>
+      </ul>
+    </div>
+  </div>
 
-**Staff, Human Resources Task Force** | Personnel Team, Device Solutions, Samsung Electronics  
-*2012-2013*
-- Human Resources Support and Development
+  <div class="timeline-item samsung">
+    <div class="timeline-dot"></div>
+    <div class="timeline-year">2012 – 2013</div>
+    <div class="timeline-card">
+      <div class="timeline-company">Samsung Electronics</div>
+      <div class="timeline-role">Staff, Human Resources Task Force</div>
+      <div class="timeline-dept">Personnel Team · Device Solutions</div>
+      <ul>
+        <li>Human Resources Support and Development</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
 
 ---
 
