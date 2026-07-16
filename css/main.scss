@@ -1,3 +1,6 @@
+---
+# Main scss file
+---
 body {
   font-family: 'Poppins', sans-serif;
   background-color: #f8f9fa;
@@ -21,47 +24,12 @@ h1, h2 {
   color: #003366;
 }
 
-.btn {
-  display: inline-block;
-  padding: 0.7rem 1.5rem;
-  background-color: #007bff;
-  color: white;
-  border-radius: 5px;
-  text-decoration: none;
-  margin-top: 1rem;
-}
-
-.skill-list span {
-  display: inline-block;
-  background: #e0e0e0;
-  padding: 0.4rem 0.8rem;
-  margin: 0.2rem;
-  border-radius: 5px;
-}
-
 .profile-pic {
   width: 150px;
   height: 100px;
   border-radius: 50%;
   display: block;
   margin: 0 auto;
-}
-
-/* ── Expertise Tags ── */
-.expertise-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.3rem;
-  margin-bottom: 1.2rem;
-}
-.expertise-tags span {
-  background: #eef2ff;
-  color: #3b5bdb;
-  font-size: 0.7rem;
-  padding: 0.2rem 0.6rem;
-  border-radius: 999px;
-  font-weight: 600;
-  letter-spacing: 0.02em;
 }
 
 /* ── Career Timeline ── */
@@ -92,14 +60,6 @@ h1, h2 {
   border-radius: 50%;
   border: 2px solid #f8f9fa;
 }
-.timeline-item.cellumed .timeline-dot {
-  background: #27ae60;
-  box-shadow: 0 0 0 2px #27ae60;
-}
-.timeline-item.samsung .timeline-dot {
-  background: #1428A0;
-  box-shadow: 0 0 0 2px #1428A0;
-}
 .timeline-year {
   font-size: 0.68rem;
   font-weight: 700;
@@ -114,8 +74,6 @@ h1, h2 {
   border-radius: 0 6px 6px 0;
   background: #fafafa;
 }
-.timeline-item.cellumed .timeline-card { border-color: #27ae60; }
-.timeline-item.samsung  .timeline-card { border-color: #1428A0; }
 .timeline-company {
   font-size: 0.63rem;
   font-weight: 700;
@@ -123,8 +81,6 @@ h1, h2 {
   letter-spacing: 0.08em;
   margin-bottom: 0.1rem;
 }
-.timeline-item.cellumed .timeline-company { color: #27ae60; }
-.timeline-item.samsung  .timeline-company { color: #1428A0; }
 .timeline-role {
   font-weight: 700;
   font-size: 0.88rem;
@@ -144,4 +100,15 @@ h1, h2 {
 }
 .timeline-card ul li {
   margin-bottom: 0.1rem;
+}
+
+.timeline-item.cellumed {
+  .timeline-dot { background: #27ae60; box-shadow: 0 0 0 2px #27ae60; }
+  .timeline-card { border-color: #27ae60; }
+  .timeline-company { color: #27ae60; }
+}
+.timeline-item.samsung {
+  .timeline-dot { background: #1428A0; box-shadow: 0 0 0 2px #1428A0; }
+  .timeline-card { border-color: #1428A0; }
+  .timeline-company { color: #1428A0; }
 }
