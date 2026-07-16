@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 ---
 
@@ -12,7 +12,7 @@ layout: default
 5th Floor, 130 Digital-ro, Geumcheon-gu, Seoul, Republic of Korea
 
 **Email:**
-- [swssmjy86@cellumed.co.kr](mailto:swssmjy86@cellumed.co.kr) 
+- [swssmjy86@cellumed.co.kr](mailto:swssmjy86@cellumed.co.kr)
 - [swssmjy86@gmail.com](mailto:swssmjy86@gmail.com)
 - [swssmjy86@kaist.ac.kr](mailto:swssmjy86@kaist.ac.kr)
 
@@ -163,6 +163,7 @@ layout: default
 - Automation & Efficiency
 
 **Family:** Married with one child
-<br />
-<img src="https://github.com/swssmjy86/swssmjy86.github.io/assets/148452455/d33f7cb0-fd06-4530-bc8a-a980b4a9c4a2" alt="Profile Photo" class="profile-pic" width="350px" /><br />
-**Last Updated:** June 5, 2026
+
+<img src="https://github.com/swssmjy86/swssmjy86.github.io/assets/148452455/d33f7cb0-fd06-4530-bc8a-a980b4a9c4a2" alt="Profile Photo" class="profile-pic" width="350px" />
+
+**Last Updated:** 7월 17, 2026
